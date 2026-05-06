@@ -1,4 +1,4 @@
-
+![github contribution grid snake animation](https://raw.githubusercontent.com/mrscaredycat/mrscaredycat/output/github-contribution-grid-snake.svg)
 
 ##  Olá, meu nome é Ana Caroline!
 
