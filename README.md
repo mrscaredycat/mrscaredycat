@@ -1,4 +1,4 @@
-![Snake animation](https://raw.githubusercontent.com/mrscaredycat/mrscaredycat/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/mrscaredycat/mrscaredycat/output/github-contribution-grid-snake.svg?palette=github-dark&v=1)
 
 ##  Olá, meu nome é Ana Caroline!
 
