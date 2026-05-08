@@ -6,9 +6,7 @@
 💻 Curiosa, dedicada e apaixonada por aprender como a tecnologia funciona por dentro  
 🚀 Explorando Desenvolvimento de Software, Machine Learning e Ciência de Dados    
 
-💬 Sempre aberta para trocar ideias sobre tecnologia, projetos e aprendizado contínuo.  
-
-
+💬 Sempre aberta para trocar ideias sobre tecnologia, projetos e aprendizado contínuo.   
 
 ---
 
@@ -16,17 +14,20 @@
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" alt="Java"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" alt="Vue.js"/></code>
 
 ---
 
 ## 💼 Ferramentas que utilizo
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/nuxt/nuxt.png" alt="Nuxt.js"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png" alt="Spring Boot"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="VS Code"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/intellij-idea/intellij-idea.png" alt="IntelliJ IDEA"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/pycharm/pycharm.png" alt="PyCharm"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png" alt="Spring Boot"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png" alt="Windows"/></code>
 
 ---
@@ -40,6 +41,4 @@
   <a href="https://www.linkedin.com/in/ana-caroline-freitas-brito-4942172a9/" title="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
 </p>
-
